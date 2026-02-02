@@ -1,0 +1,32 @@
+[
+  {
+    "id": 102,
+    "name": "Aman Singh",
+    "email": "aman.singh@gmail.com",
+    "course": "B.Tech IT"
+  },
+  {
+    "id": 103,
+    "name": "Priya Sharma",
+    "email": "priya.sharma@gmail.com",
+    "course": "BCA"
+  },
+  {
+    "id": 104,
+    "name": "Neha Verma",
+    "email": "neha.verma@gmail.com",
+    "course": "MCA"
+  },
+  {
+    "id": 1770005794007,
+    "name": "Rahul Mehta",
+    "email": "rahul@gmail.com",
+    "course": "B.Tech AI"
+  },
+  {
+    "id": 1770006332456,
+    "name": "Rahul Mehta",
+    "email": "rahul@gmail.com",
+    "course": "B.Tech AI"
+  }
+]
