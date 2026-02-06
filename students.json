@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1770016810150,
+    "name": "Roushan Kumar",
+    "email": "roushanyadav930@gmail.com",
+    "course": "MERN Stack"
+  },
+  {
+    "id": 1770017054321,
+    "name": "Priya Sharma",
+    "email": "priya.sharma@gmail.com",
+    "course": "UI/UX Design"
+  },
+  {
+    "id": 1770017922017,
+    "name": "Aman Singh",
+    "email": "amansingh@gmail.com",
+    "course": "Full Stack Web Development"
+  }
+]
