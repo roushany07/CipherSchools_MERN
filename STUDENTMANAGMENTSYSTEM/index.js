@@ -48,6 +48,7 @@ app.put("/students/:id", (req, res) => {
   res.json(students[index]);
 });
 
+
 app.delete("/students/:id", (req, res) => {
   let students = readData();
   students = students.filter((s) => s.id != req.params.id);
